@@ -21,16 +21,13 @@ A simple and elegant profile card website featuring my personal card and a free 
 
 ### Demo
 
-- My Card: [your-username.github.io/profile-card](https://your-username.github.io/profile-card)
-- Template: [your-username.github.io/profile-card/free-template](https://your-username.github.io/profile-card/free-template)
+- My Card: [https://sujon402x.github.io/Profile-Card](https://sujon402x.github.io/Profile-Card)
+- Template: [https://sujon402x.github.io/Profile-Card/free-template](https://sujon402x.github.io/Profile-Card/free-template)
 
 ## Tech Stack
 - HTML5
 - CSS3
 - JavaScript
-
-## License
-MIT License - Feel free to use and modify
 
 ---
 Made with ❤️ | Star ⭐ this repo if you found it useful!
